@@ -1,9 +1,5 @@
 # Портфолио проектов Яндекс.Практикум
-**Контактные данные:**
-
-Электронная почта: alexandralisina1@gmail.com
-
-Телеграм: @alexandralisina
+**Контактные данные:** электронная почта: alexandralisina1@gmail.com , телеграм: @alexandralisina.
 
 В данном репозитории собраны проекты, которые были выполнены в ходе обучения в Яндекс.Практикуме по программе «Аналитик данных». Сертификат о прохождении курса [RUS](https://drive.google.com/file/d/17cAPf12FirZG6JjEMIH-qEUwyAs-TsdJ/view?usp=sharing)/[EN](https://drive.google.com/file/d/1RwDD7HXEvIaAr5tiFH4kDl7XAWMbDt-0/view?usp=sharing)
 
